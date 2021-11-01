@@ -1,26 +1,26 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-reactpin-dev-200121-authRole",
-            "UnauthRoleArn": "arn:aws:iam::226120165857:role/amplify-reactpin-dev-200121-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::226120165857:role/amplify-reactpin-dev-200121-authRole",
-            "Region": "eu-west-1",
-            "DeploymentBucketName": "amplify-reactpin-dev-200121-deployment",
-            "UnauthRoleName": "amplify-reactpin-dev-200121-unauthRole",
-            "StackName": "amplify-reactpin-dev-200121",
-            "StackId": "arn:aws:cloudformation:eu-west-1:226120165857:stack/amplify-reactpin-dev-200121/1b934ab0-3b46-11ec-8356-066d489ce1d7",
-            "AmplifyAppId": "d2ym008ck4el6"
-        },
-        "categories": {
-            "auth": {
-                "reactpin4509070e": {}
-            },
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d2ym008ck4el6",
-                    "type": "manual"
-                }
-            }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactpin-dev-200121-authRole",
+      "UnauthRoleArn": "arn:aws:iam::226120165857:role/amplify-reactpin-dev-200121-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::226120165857:role/amplify-reactpin-dev-200121-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-reactpin-dev-200121-deployment",
+      "UnauthRoleName": "amplify-reactpin-dev-200121-unauthRole",
+      "StackName": "amplify-reactpin-dev-200121",
+      "StackId": "arn:aws:cloudformation:eu-west-1:226120165857:stack/amplify-reactpin-dev-200121/1b934ab0-3b46-11ec-8356-066d489ce1d7",
+      "AmplifyAppId": "d2ym008ck4el6"
+    },
+    "categories": {
+      "auth": {
+        "reactpin4509070e": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2ym008ck4el6",
+          "type": "manual"
         }
+      }
     }
+  }
 }

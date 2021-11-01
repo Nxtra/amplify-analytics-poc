@@ -50,5 +50,11 @@
       "providerPlugin": "awscloudformation",
       "type": "manual"
     }
+  },
+  "analytics": {
+    "reactpin": {
+      "service": "Pinpoint",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }

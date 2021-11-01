@@ -1,6 +1,6 @@
 {
     "identityPoolName": "reactpin4509070e_identitypool_4509070e",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "reactp4509070e",
     "userPoolName": "reactpin4509070e_userpool_4509070e",
     "autoVerifiedAttributes": [
